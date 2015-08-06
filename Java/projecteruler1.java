@@ -1,3 +1,5 @@
+//Multiples of 3 and 5
+
 public class projecteruler1{
   public static void main(String[]args){
   int sum = 0;
